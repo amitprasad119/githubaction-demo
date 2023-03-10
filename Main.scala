@@ -1,7 +1,6 @@
 object Main {
-    
-    def main(args: Array[String]) = {                 
-       println("Hello, world")
-    }
+  def main(args: Array[String]) = {
+    println("Hello, world")
+  }
 
 }
